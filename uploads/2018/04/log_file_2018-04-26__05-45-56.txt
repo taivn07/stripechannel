@@ -1,0 +1,41 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 200
+Files info:
+Site URL = http://test-url.site/ec
+Data file = /home/castage/test-url.site/public_html/ec/wp-content/themes/won/demo_import/demo-content.xml
+Widget file = /home/castage/test-url.site/public_html/ec/wp-content/themes/won/demo_import/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Header social : 
+
+カスタム HTML - No Title - Imported
+
+Footer Left : 
+
+Won Footer Left - No Title - Imported
+
+Footer Right : 
+
+Won Footer Right - No Title - Imported
+
+Main Sidebar : 
+
+Won Search - No Title - Imported
+カテゴリー - Categories - Imported
+アーカイブ - Archives - Imported
+Recent Posts With Thumbnails - RECENT POSTS - Imported
+タグクラウド - Tags - Imported
+
+
+
+---pt-ocdi/after_import---
+

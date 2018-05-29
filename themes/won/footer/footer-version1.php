@@ -1,0 +1,1 @@
+<?php echo "Footer veresion 1"; ?>

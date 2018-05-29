@@ -1,0 +1,12 @@
+2018-04-03T13:26:59+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on boolean in /home/tsuji2017/ot-ot-ot.com/public_html/ec/wp-content/plugins/woocommerce/includes/class-wc-comments.php:371
+Stack trace:
+#0 /home/tsuji2017/ot-ot-ot.com/public_html/ec/wp-content/plugins/woocommerce/includes/class-wc-comments.php(188): WC_Comments::get_rating_counts_for_product(false)
+#1 /home/tsuji2017/ot-ot-ot.com/public_html/ec/wp-includes/class-wp-hook.php(288): WC_Comments::clear_transients(15)
+#2 /home/tsuji2017/ot-ot-ot.com/public_html/ec/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/tsuji2017/ot-ot-ot.com/public_html/ec/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/tsuji2017/ot-ot-ot.com/public_html/ec/wp-includes/comment.php(2391): do_action('wp_update_comme...', 15, 3, 0)
+#5 /home/tsuji2017/ot-ot-ot.com/public_html/ec/wp-includes/comment.php(2322): wp_update_comment_count_now(15)
+#6 /home/tsuji2017/ot-ot-ot.com/public_html/ec/wp-includes/comment.php(2284): wp_update_comment_count(NUL
+
+2018-04-26T20:03:17+00:00 CRITICAL Call to undefined function sq_option_url()
+
